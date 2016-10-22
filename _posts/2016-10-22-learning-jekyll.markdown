@@ -4,6 +4,8 @@ title:  "Learning Jekyll"
 date:   2016-10-22 11:33:25 +0200
 categories: news
 ---
+
+<img src="/images/IMG_2060.JPG"/>
 Jekyll is a great program!
 
 {{post.excerpt}} po "</h2>" bo zraven imena bloga objavil še prvi paragraph v blogu.
